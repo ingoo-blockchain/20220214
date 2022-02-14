@@ -37,5 +37,18 @@ git revert [취소할커밋hash값]
 
 - 3 branch 커밋을 나누는 행위
 
+브랜치보기
+git branch
+
+브랜치생성
+git branch [브랜치명]
+ex ) git branch test
+
+브랜치 바꾸기
+git checkout [브랜치명]
+ex ) git checkout test
+
+나의 브랜치 test다~
+
 - 4 merge, rebase 커밋을 합쳐주는 행위
 
