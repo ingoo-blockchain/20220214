@@ -37,5 +37,7 @@ git revert [취소할커밋hash값]
 
 - 3 branch 커밋을 나누는 행위
 
+나는 master 브랜치이다!
+
 - 4 merge, rebase 커밋을 합쳐주는 행위
 
