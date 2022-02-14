@@ -29,6 +29,12 @@ git log
 node_modules 코드가 많다.
 package-lock.json <--
 
+git rm -r [파일명] # 로컬과 원격저장소를 다지움
+git rm --cached -r [파일명] # 원격저장소에서만 지움
+
+프로젝트 폴더에서 .gitignore 파일을 생성해주세요.
+
+
 
 - 2 Reset , Revert 커밋을 뒤로 돌아가는 행위
 
