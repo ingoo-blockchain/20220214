@@ -37,6 +37,7 @@ git revert [취소할커밋hash값]
 
 - 3 branch 커밋을 나누는 행위
 
+<<<<<<< HEAD
 브랜치보기
 git branch
 
@@ -49,6 +50,9 @@ git checkout [브랜치명]
 ex ) git checkout test
 
 나의 브랜치 test다~
+=======
+나는 master 브랜치이다!
+>>>>>>> master
 
 - 4 merge, rebase 커밋을 합쳐주는 행위
 
