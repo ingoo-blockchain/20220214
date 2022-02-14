@@ -18,8 +18,17 @@ CLI git 관리할줄아는사람이 썻을때 빛을
 git 도움을 주는 확장앱 설치
 > Git Graph
 
+git log
 
-- 1 gitignore
+
+알파벳 j 눌러도 내려가고 방향키 내려도 내려갑니다.
+
+- 1 gitignore git init .git 폴더 생성생성
+내가 굳이 이폴더는 올릴필요가없는 파일 혹은 디렉토리
+아이디와 패스워드를 저장하는 text파일
+node_modules 코드가 많다.
+package-lock.json <--
+
 
 - 2 Reset , Revert 커밋을 뒤로 돌아가는 행위
 
