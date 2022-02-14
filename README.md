@@ -52,3 +52,7 @@ ex ) git checkout test
 
 - 4 merge, rebase 커밋을 합쳐주는 행위
 
+
+<script type="text/javascript">
+    alert('hello world')
+</script>
